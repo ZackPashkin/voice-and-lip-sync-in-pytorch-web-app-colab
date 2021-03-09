@@ -11,7 +11,7 @@ Voice and lip sync web app in colab
 Thanks to wonderful repo and paper:
 
 1.Wav2Lip: Accurately Lip-syncing Videos In The Wild https://github.com/Rudrabha/Wav2Lip
-@inproceedings{10.1145/3394171.3413532,
+```@inproceedings{10.1145/3394171.3413532,
 author = {Prajwal, K R and Mukhopadhyay, Rudrabha and Namboodiri, Vinay P. and Jawahar, C.V.},
 title = {A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild},
 year = {2020},
@@ -26,6 +26,6 @@ numpages = {9},
 keywords = {lip sync, talking face generation, video generation},
 location = {Seattle, WA, USA},
 series = {MM '20}
-}
+}```
 
 2. Real-Time Voice Cloning https://github.com/CorentinJ/Real-Time-Voice-Cloning
