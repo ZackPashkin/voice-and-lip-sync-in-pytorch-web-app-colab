@@ -2,8 +2,7 @@ umap-learn
 visdom
 librosa>=0.8.0
 matplotlib>=3.3.0
-numpy==1.19.3; platform_system == "Windows"
-numpy==1.19.4; platform_system != "Windows"
+numpy==1.19.3
 scipy>=1.0.0
 tqdm
 sounddevice
@@ -13,4 +12,7 @@ inflect
 PyQt5
 multiprocess
 numba
-webrtcvad; platform_system != "Windows"
+webrtcvad
+opencv-contrib-python>=4.2.0.34
+opencv-python==4.1.0.25
+
