@@ -7,7 +7,7 @@ Voice and lip sync web app in colab
 
 
 
-# Acknowledgements
+# Acknowledgements and Citation
 Thanks to wonderful repo and paper:
 
 1.Wav2Lip: Accurately Lip-syncing Videos In The Wild https://github.com/Rudrabha/Wav2Lip
