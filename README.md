@@ -4,7 +4,7 @@ colab
 
 ### See example result
 
-[<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot%202021-02-23%20at%2001.33.34.png" width="250"/>](https://photos.app.goo.gl/qqvuhdWdcX1Qwe858)
+[<img src="https://github.com/ZackPashkin/voice-and-lip-sync-in-pytorch-web-app-colab/blob/main/lecun.png" width="250"/>](https://photos.app.goo.gl/qqvuhdWdcX1Qwe858)
 
 
 
