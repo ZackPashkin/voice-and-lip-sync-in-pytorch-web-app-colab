@@ -1,8 +1,10 @@
 # voice-and-lip-sync-in-pytorch-web-app-colab
 Voice and lip sync web app in colab
 colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1URe4SFFQk6FVYUTtqin65N8jOOn3tIVC)
 
 ### See example result
+
 
 [<img src="https://github.com/ZackPashkin/voice-and-lip-sync-in-pytorch-web-app-colab/blob/main/lecun.png" width="250"/>](https://photos.app.goo.gl/qqvuhdWdcX1Qwe858)
 
