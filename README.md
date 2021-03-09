@@ -6,7 +6,7 @@
 ### See example result
 
 
-[<img src="https://github.com/ZackPashkin/voice-and-lip-sync-in-pytorch-web-app-colab/blob/main/lecun.png" width="250"/>](https://photos.app.goo.gl/qqvuhdWdcX1Qwe858)
+[<img src="https://github.com/ZackPashkin/voice-and-lip-sync-in-pytorch-web-app-colab/blob/main/lecun.gif" width="250"/>](https://photos.app.goo.gl/qqvuhdWdcX1Qwe858)
 
 
 
