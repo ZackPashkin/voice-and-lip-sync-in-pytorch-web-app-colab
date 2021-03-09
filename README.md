@@ -2,6 +2,10 @@
 Voice and lip sync web app in colab
 colab
 
+### With vocalization "Little prince 3"
+
+[<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot%202021-02-23%20at%2001.33.34.png" width="250"/>](https://photos.app.goo.gl/qqvuhdWdcX1Qwe858)
+
 
 
  
