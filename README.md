@@ -1,6 +1,6 @@
 # voice-and-lip-sync-in-pytorch-web-app-colab
-Voice and lip sync web app in colab
-colab
+### Voice and lip sync web app in colab
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1URe4SFFQk6FVYUTtqin65N8jOOn3tIVC)
 
 ### See example result
